@@ -5,7 +5,7 @@
 London, UK & Lisbon, Portugal · Remote & Hybrid · Available Now
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diamantinoalmeida-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/diamantinoalmeida)
-[![Substack](https://img.shields.io/badge/Leadership_as_a_Verb-FF6719?style=flat&logo=substack)](https://substack.com/@diamantinoalmeida)
+[![Substack](https://img.shields.io/badge/Leadership_as_a_Verb-FF6719?style=flat&logo=substack)](https://newsletter.diamantinoalmeida.com)
 [![MentorCruise](https://img.shields.io/badge/MentorCruise-Leadership_Mentor-00A896?style=flat)](https://mentorcruise.com)
 
 ---
