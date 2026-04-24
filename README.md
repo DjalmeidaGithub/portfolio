@@ -197,7 +197,7 @@ The breadth is deliberate. Working across industries lets me apply hardened gove
 
 ## Writing
 
-I write [Architect of Legacy](https://substack.com/@diamantinoalmeida) on Substack. Not about productivity frameworks or thought leadership. About what technology is actually costing us — the trade-offs we make and who pays for them.
+I write [Leadership as a Verb](https://substack.com/@diamantinoalmeida) on Substack. Not about productivity frameworks or thought leadership. About what technology is actually costing us — the trade-offs we make and who pays for them.
 
 Three threads:
 
