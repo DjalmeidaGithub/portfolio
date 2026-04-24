@@ -1,6 +1,6 @@
 # Diamantino Almeida
 
-**Fractional COO · Engineering Director · Strategic Advisor**
+**Fractional COO · Senior Engineering Manager · Strategic Advisor**
 
 London, UK & Lisbon, Portugal · Remote & Hybrid · Available Now
 
